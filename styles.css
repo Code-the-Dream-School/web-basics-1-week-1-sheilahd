@@ -1,11 +1,14 @@
 * {
-margin: 0;
+margin:50;
 padding: 0;
 }
 
 #target-div {
-  min-height: 100vh;
+  min-height: 10vh;
   width: 100%;
   background: #ddd;
   padding:1em;
+}
+body{
+  font-family: "verdana";
 }
